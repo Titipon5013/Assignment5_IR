@@ -76,7 +76,7 @@ The data was collected using a custom Multi-Threaded Crawler set to Depth = 2, r
 
 4. Open the provided localhost link in your browser to use the search engine.
 
-<img width="1886" height="846" alt="image" src="https://github.com/user-attachments/assets/d4b7a5a4-ed65-47b6-9dfa-d01558f5bbd2" />
+<img width="1893" height="857" alt="image" src="https://github.com/user-attachments/assets/a8e1a0dc-5941-4d56-b793-604efaed7f4c" />
 
 query: camt
 
@@ -88,7 +88,7 @@ query: software
 
 query: cmu
 
-
+Testing revealed that the Manual TF-IDF search is faster and returns more hits than Elasticsearch. This is because the manual search operates directly in-memory, avoiding network request delays, and uses simpler text matching compared to Elasticsearch's strict text analyzer.
 
 ---
 
