@@ -78,6 +78,18 @@ The data was collected using a custom Multi-Threaded Crawler set to Depth = 2, r
 
 <img width="1886" height="846" alt="image" src="https://github.com/user-attachments/assets/d4b7a5a4-ed65-47b6-9dfa-d01558f5bbd2" />
 
+query: camt
+
+<img width="1891" height="859" alt="image" src="https://github.com/user-attachments/assets/60f59d18-bd09-4c3d-9248-a0b52dbc73a0" />
+
+query: software
+
+<img width="1889" height="854" alt="image" src="https://github.com/user-attachments/assets/41f2f46b-b9a3-49b5-9ecf-4ec136c066f3" />
+
+query: cmu
+
+
+
 ---
 
 ## AI Usage Report
