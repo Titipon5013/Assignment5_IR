@@ -76,6 +76,8 @@ The data was collected using a custom Multi-Threaded Crawler set to Depth = 2, r
 
 4. Open the provided localhost link in your browser to use the search engine.
 
+<img width="1886" height="846" alt="image" src="https://github.com/user-attachments/assets/d4b7a5a4-ed65-47b6-9dfa-d01558f5bbd2" />
+
 ---
 
 ## AI Usage Report
