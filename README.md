@@ -90,6 +90,10 @@ query: cmu
 
 Testing revealed that the Manual TF-IDF search is faster and returns more hits than Elasticsearch. This is because the manual search operates directly in-memory, avoiding network request delays, and uses simpler text matching compared to Elasticsearch's strict text analyzer.
 
+### Note on Execution Time:
+
+"If you clone my project and test to run this application. It is completely normal for the initial search query to take slightly longer. This is due to a 'Cold Start,' where Elasticsearch must load the index into memory and compile the custom PageRank scoring script for the first time. For subsequent queries, the system utilizes a 'Warm Cache' and the pre-compiled script, resulting in highly optimized, sub-second execution times."
+
 ---
 
 ## AI Usage Report
